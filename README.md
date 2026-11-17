@@ -10,6 +10,9 @@ I build iOS products with Swift and SwiftUI, combining hands-on engineering with
 
 - **[Promova](https://apps.apple.com/ua/app/id1460782849)** — Built learning experiences and led iOS delivery for an AI learning product. Worked on navigation, experimentation, widgets, and Live Activities.
 - **[BRIZ.TV](https://apps.apple.com/ua/app/id1539403361)** — Helped modernize the streaming app with SwiftUI, modular architecture, and StoreKit 2.
+- **[LiveStage](https://apps.apple.com/ua/app/id1669886914)** — iOS app developed during my time at OCTY.
+- **[Weight Loss Workouts at Home](https://apps.apple.com/ua/app/id1632394159)** — iOS app developed during my time at OCTY.
+- **[BeautyUp](https://apps.apple.com/ua/app/id1671843069)** — Built drawing tools and improved rendering performance using Metal.
 
 ## Technologies & tools
 
